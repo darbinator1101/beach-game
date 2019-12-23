@@ -1,0 +1,727 @@
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 0
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 1
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Basic_Wall.uasset" 2
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Architecture/Pillar_50x500.uasset" 3
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Architecture/Wall_400x300.uasset" 4
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Architecture/Wall_400x400.uasset" 5
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Architecture/Wall_500x500.uasset" 6
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 7
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 8
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Collapse01.uasset" 9
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Collapse02.uasset" 10
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Explosion01.uasset" 11
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Explosion02.uasset" 12
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Fire01.uasset" 13
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Fire_Sparks01.uasset" 14
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Light01.uasset" 15
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Light01_Cue.uasset" 16
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Light02.uasset" 17
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Light02_Cue.uasset" 18
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Smoke01.uasset" 19
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Starter_Birds01.uasset" 20
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Starter_Music01.uasset" 21
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Starter_Wind05.uasset" 22
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Starter_Wind06.uasset" 23
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Steam01.uasset" 24
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Explosion_Cue.uasset" 25
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Burst_M.uasset" 26
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Particles/Materials/M_Burst.uasset" 27
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 28
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 29
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 30
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 31
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 32
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 33
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 34
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 35
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Particles/P_Explosion.uasset" 36
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 37
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 38
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 39
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Bush_D.uasset" 40
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Bush_N.uasset" 41
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/Materials/M_Bush.uasset" 42
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_Bush.uasset" 43
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Chair_M.uasset" 44
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Chair_N.uasset" 45
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/Materials/M_Chair.uasset" 46
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_Couch.uasset" 47
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Glass.uasset" 48
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Door_M.uasset" 49
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Door_N.uasset" 50
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/Materials/M_Door.uasset" 51
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_Door.uasset" 52
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 53
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 54
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 55
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 56
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 57
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 58
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_RockMesh_M.uasset" 59
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_RockMesh_N.uasset" 60
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/Materials/M_Rock.uasset" 61
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_Rock.uasset" 62
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Shelf_M.uasset" 63
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Shelf_N.uasset" 64
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/Materials/M_Shelf.uasset" 65
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_Shelf.uasset" 66
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Basic_Floor.uasset" 67
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_Stairs.uasset" 68
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_Cone.uasset" 69
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 70
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 71
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_Pipe.uasset" 72
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 73
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 74
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_Plane.uasset" 75
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_Torus.uasset" 76
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_Trim.uasset" 77
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 78
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 79
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 80
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_Tube.uasset" 81
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 82
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 83
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 84
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 85
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 86
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 87
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 88
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 89
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 90
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 91
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 92
+"../../../Engine/Content/BasicShapes/Cone.uasset" 93
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 94
+"../../../Engine/Content/BasicShapes/Plane.uasset" 95
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 96
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 97
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 98
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 99
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 100
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 101
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 102
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 103
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 104
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 105
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 106
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 107
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 108
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 109
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 110
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 111
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 112
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 113
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 114
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 115
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 116
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 117
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 118
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 119
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 120
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 121
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 122
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 123
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 124
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 125
+"../../../Engine/Content/EditorResources/S_Note.uasset" 126
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 127
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 128
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 129
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 130
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 131
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 132
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 133
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 134
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 135
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 136
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 137
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 138
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 139
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 140
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 141
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 142
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 143
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 144
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 145
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 146
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 147
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 148
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 149
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 150
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 151
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 152
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 153
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 154
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 155
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 156
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 157
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 158
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 159
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 160
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 161
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 162
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 163
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 164
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 165
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 166
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 167
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 168
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 169
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 170
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 171
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 172
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 173
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 174
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 175
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 176
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 177
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 178
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 179
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 180
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 181
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 182
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 183
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 184
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 185
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 186
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 187
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 188
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 189
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 190
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 191
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 192
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 193
+"../../../Engine/Content/EngineResources/Black.uasset" 194
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 195
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 196
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 197
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 198
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 199
+"../../../Engine/Content/EngineSounds/Master.uasset" 200
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 201
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 202
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 203
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 204
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 205
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 206
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 207
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 208
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 209
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 210
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 211
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 212
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 213
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 214
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 215
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 216
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 217
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 218
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 219
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 220
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 221
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 222
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 223
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 224
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 225
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 226
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 227
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 228
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 229
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 230
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 231
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 232
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 233
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 234
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 235
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 236
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 237
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 238
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 239
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 240
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 241
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 242
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 243
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 244
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 245
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 246
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 247
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 248
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 249
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 250
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 251
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 252
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 253
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 254
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 255
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 256
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 257
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 258
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 259
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 260
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 261
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 262
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 263
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 264
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 265
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_AssetPlatform.uasset" 266
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 267
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 268
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 269
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 270
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 271
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 272
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 273
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 274
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Maps/Advanced_Lighting.umap" 275
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 276
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 277
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 278
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 279
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 280
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 281
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 282
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 283
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 284
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 285
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 286
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_MacroVariation.uasset" 287
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 288
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 289
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 290
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 291
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 292
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Metal_Copper.uasset" 293
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Statue_M.uasset" 294
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Statue_N.uasset" 295
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 296
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Architecture/Floor_400x400.uasset" 297
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 298
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_Chair.uasset" 299
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/Materials/M_Statue.uasset" 300
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_Statue.uasset" 301
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_TableRound_M.uasset" 302
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_TableRound_N.uasset" 303
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/Materials/M_TableRound.uasset" 304
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_TableRound.uasset" 305
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Maps/Minimal_Default.umap" 306
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Fire01_Cue.uasset" 307
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 308
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 309
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 310
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Water_N.uasset" 311
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 312
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 313
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Particles/P_Fire.uasset" 314
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 315
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Smoke01_Cue.uasset" 316
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Particles/P_Smoke.uasset" 317
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 318
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 319
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Spark_Core.uasset" 320
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Particles/Materials/M_Spark.uasset" 321
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Particles/P_Sparks.uasset" 322
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 323
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Steam01_Cue.uasset" 324
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Particles/P_Steam_Lit.uasset" 325
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 326
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Lamp_M.uasset" 327
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Lamp_N.uasset" 328
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/Materials/M_Lamp.uasset" 329
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 330
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 331
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 332
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 333
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 334
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 335
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 336
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 337
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 338
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 339
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 340
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 341
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 342
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 343
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 344
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 345
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 346
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 347
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 348
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 349
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 350
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 351
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 352
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 353
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 354
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 355
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 356
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 357
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 358
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 359
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 360
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 361
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 362
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 363
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 364
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 365
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Gradinet_01.uasset" 366
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 367
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 368
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 369
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 370
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 371
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 372
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 373
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 374
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 375
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 376
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 377
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 378
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 379
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 380
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 381
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 382
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 383
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 384
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 385
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 386
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 387
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 388
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Ground_Grass.uasset" 389
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 390
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 391
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 392
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 393
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 394
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Ground_Moss.uasset" 395
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 396
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 397
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Metal_Gold.uasset" 398
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 399
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Metal_Rust.uasset" 400
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 401
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 402
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Metal_Steel.uasset" 403
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 404
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 405
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 406
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 407
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 408
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 409
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 410
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 411
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Rock_Slate.uasset" 412
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 413
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 414
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 415
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 416
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 417
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 418
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 419
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 420
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 421
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 422
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 423
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Tech_Panel.uasset" 424
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Water_Lake.uasset" 425
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Water_M.uasset" 426
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Water_Ocean.uasset" 427
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 428
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 429
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 430
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 431
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 432
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 433
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 434
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 435
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Wood_Oak.uasset" 436
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 437
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 438
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Wood_Pine.uasset" 439
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 440
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 441
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 442
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Architecture/Wall_400x200.uasset" 443
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 444
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 445
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Collapse_Cue.uasset" 446
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 447
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 448
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 449
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 450
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/MaterialSphere.uasset" 451
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Frame_M.uasset" 452
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Textures/T_Frame_N.uasset" 453
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/Materials/M_Frame.uasset" 454
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_CornerFrame.uasset" 455
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_DoorFrame.uasset" 456
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_GlassWindow.uasset" 457
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_PillarFrame.uasset" 458
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_PillarFrame300.uasset" 459
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Props/SM_WindowFrame.uasset" 460
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_Cube.uasset" 461
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 462
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Shapes/Shape_Sphere.uasset" 463
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/StarterContent/Maps/StarterMap.umap" 464
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 465
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_OverrideOpacityMask.uasset" 466
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 467
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Materials/Functions/MF_Fresnel_01a.uasset" 468
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_SandMaterial_01a_ALB.uasset" 469
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_SandMaterial_01a_NRM.uasset" 470
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_SandMaterial_01a_RMA.uasset" 471
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Utility/TX_SandMask_01a_M.uasset" 472
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Materials/Functions/MF_Sand_01a.uasset" 473
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Coins_01a_H.uasset" 474
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Utility/TX_Cube_01a_CUBE.uasset" 475
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Utility/TX_Fill_01a_ALB.uasset" 476
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Utility/TX_Fill_01a_H.uasset" 477
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Utility/TX_Fill_01a_NRM.uasset" 478
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Utility/TX_Fill_01a_RMA.uasset" 479
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Materials/Masters/MM_Master_Material_01a.uasset" 480
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Bangle_01a_ALB.uasset" 481
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Bangle_01a_NRM.uasset" 482
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Bangle_01a_RMA.uasset" 483
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Materials/Instances/MI_Bangle_01a.uasset" 484
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Meshes/SM_Bangle_02i.uasset" 485
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/SM_Bangle_02i_Blueprint.uasset" 486
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Crown_01a_ALB.uasset" 487
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Crown_01a_NRM.uasset" 488
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Crown_01a_RMA.uasset" 489
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Materials/Instances/MI_Crown_01a.uasset" 490
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Meshes/SM_Crown_01a.uasset" 491
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/SM_Crown_01a_Blueprint.uasset" 492
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Gems_01a_ALB.uasset" 493
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Gems_01a_NRM.uasset" 494
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Gems_01a_RMA.uasset" 495
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Materials/Instances/MI_Gems_01a.uasset" 496
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Meshes/SM_Gems_01b.uasset" 497
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/SM_Gems_01b_Blueprint.uasset" 498
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Meshes/SM_Gems_01c.uasset" 499
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/SM_Gems_01c_Blueprint.uasset" 500
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/EnvironmentPack1/Textures/T_MerchantShip_Bottle_D.uasset" 501
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/EnvironmentPack1/Textures/T_MerchantShip_Bottle_N.uasset" 502
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/EnvironmentPack1/Materials/M_Bottles.uasset" 503
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/EnvironmentPack1/Meshes/Props/SM_MerchantShip_Bottle_02.uasset" 504
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/SM_MerchantShip_Bottle_02_Blueprint.uasset" 505
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Pearls_01a_ALB.uasset" 506
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Pearls_01a_NRM.uasset" 507
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Pearls_01a_RMA.uasset" 508
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Materials/Instances/MI_Pearls_01a.uasset" 509
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Meshes/SM_Pearls_01b.uasset" 510
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/SM_Pearls_01b_Blueprint.uasset" 511
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Textures/T_Detail_N.uasset" 512
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Textures/T_Pack_01_D.uasset" 513
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Textures/T_Pack_01_N.uasset" 514
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Textures/T_Pack_01_RM.uasset" 515
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Textures/T_Pack_03_E.uasset" 516
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Materials/M_Uber.uasset" 517
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Textures/T_Pack_02_D.uasset" 518
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Textures/T_Pack_02_N.uasset" 519
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Textures/T_Pack_02_RM.uasset" 520
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Materials/M_Inst_Pack_02.uasset" 521
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Meshes/SM_Pot_Var06.uasset" 522
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/SM_Pot_Var06_Blueprint.uasset" 523
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Statue_02a_ALB.uasset" 524
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Statue_02a_NRM.uasset" 525
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Statue_02a_RMA.uasset" 526
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Materials/Instances/MI_Statue_02a.uasset" 527
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Meshes/SM_Statue_02a.uasset" 528
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/SM_Statue_02a_Blueprint.uasset" 529
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_ClayPot_02a_ALB.uasset" 530
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_ClayPot_02a_NRM.uasset" 531
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_ClayPot_02a_RMA.uasset" 532
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Materials/Instances/MI_ClayPot_02a.uasset" 533
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Meshes/SM_ClayPot_02.uasset" 534
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/Blueprints/SM_ClayPot_02_Blueprint.uasset" 535
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 536
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 537
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 538
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 539
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Animations/ThirdPersonRun.uasset" 540
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 541
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 542
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 543
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 544
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 545
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 546
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 547
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 548
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 549
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 550
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 551
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 552
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 553
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 554
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 555
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 556
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 557
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 558
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 559
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 560
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 561
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 562
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/hud1.uasset" 563
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/hud.uasset" 564
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/finalscore.uasset" 565
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 566
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Chalice_01a_ALB.uasset" 567
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Chalice_01a_NRM.uasset" 568
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Textures/Unique/TX_Chalice_01a_RMA.uasset" 569
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Materials/Instances/MI_Chalice_01.uasset" 570
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AncientTreasures/Meshes/SM_Chalice_01a.uasset" 571
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/SM_Chalice_01a_Blueprint.uasset" 572
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/Maps/beach_BuiltData.uasset" 573
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/sand/sand.uasset" 574
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/sand/sandB.uasset" 575
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/sand/sandD.uasset" 576
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/sand/sandbeach.uasset" 577
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/WaterMaterials/Textures/T_Cubemap.uasset" 578
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/WaterMaterials/Textures/T_Water_Normal.uasset" 579
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/WaterMaterials/Textures/T_Water_Normal_Large.uasset" 580
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/WaterMaterials/Textures/T_Water_Normal_Subtle.uasset" 581
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/WaterMaterials/Materials/M_Water_Clean_Cheaper.uasset" 582
+"../../../Engine/Content/BasicShapes/Cube.uasset" 583
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 584
+"../../../Engine/Content/VREditor/Sounds/UI/Invalid_Action.uasset" 585
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Textures/T_Pack_07_D.uasset" 586
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Textures/T_Pack_07_N.uasset" 587
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Textures/T_Pack_07_RM.uasset" 588
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Materials/M_Inst_Pack_07.uasset" 589
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Meshes/SM_Boat.uasset" 590
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Materials/M_Inst_Pack_01.uasset" 591
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Meshes/SM_Fence_Var01.uasset" 592
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Meshes/SM_Fence_Var02.uasset" 593
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Meshes/SM_Fence_Var03.uasset" 594
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Meshes/SM_Fence_Var04.uasset" 595
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Textures/T_Pack_08_D.uasset" 596
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Textures/T_Pack_08_N.uasset" 597
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Textures/T_Pack_08_RM.uasset" 598
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Materials/M_Inst_Pack_08.uasset" 599
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Meshes/SM_Stone_Big_Var01.uasset" 600
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Meshes/SM_Stone_Big_Var02.uasset" 601
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Meshes/SM_Stone_Big_Var03.uasset" 602
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Meshes/SM_Stone_Big_Var04.uasset" 603
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Meshes/SM_Stone_Medium_Var01.uasset" 604
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/AdvancedVillagePack/Meshes/SM_Stone_Medium_Var02.uasset" 605
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 606
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 607
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 608
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 609
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 610
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BreakBaseColor.uasset" 611
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Textures/Tileable/TX_Micro_MASK.uasset" 612
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Textures/Tileable/TX_Noise_NRM.uasset" 613
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Materials/Functions/MF_MicroDetail_01a.uasset" 614
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Textures/Tileable/TX_Dirt_01_ALB.uasset" 615
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Materials/Functions/MI_VertexBlend_02a.uasset" 616
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Textures/Utility/TX_Fill_01_ALB.uasset" 617
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Textures/Utility/TX_Fill_01_NRM.uasset" 618
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Textures/Utility/TX_Fill_01_RMA.uasset" 619
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Materials/Masters/MM_MasterMaterial_01.uasset" 620
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Textures/Unique/TX_Portapotty_01_ALB.uasset" 621
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Textures/Unique/TX_Portapotty_01_NRM.uasset" 622
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Textures/Unique/TX_Portapotty_01_RMA.uasset" 623
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Materials/Instances/MI_Portapotty_01a.uasset" 624
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Meshes/SM_Portapotty_01.uasset" 625
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Textures/Unique/TX_Roadblock_ALB.uasset" 626
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Textures/Unique/TX_Roadblock_NRM.uasset" 627
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Textures/Unique/TX_Roadblock_RMA.uasset" 628
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Materials/Instances/MI_Roadblock_01a.uasset" 629
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Construction_VOL1/Meshes/SM_Roadblock_01a.uasset" 630
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/EnvironmentPack2/Textures/T_BlockWall_08_B.uasset" 631
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/EnvironmentPack2/Textures/T_BlockWall_08_D.uasset" 632
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/EnvironmentPack2/Textures/T_BlockWall_08_N.uasset" 633
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/EnvironmentPack2/Materials/M_BlockWall_02_D.uasset" 634
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/EnvironmentPack2/Textures/T_BlockWall_07_D.uasset" 635
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/EnvironmentPack2/Textures/T_BlockWall_07_D_NRM.uasset" 636
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/EnvironmentPack2/Materials/M_BlockWall_07_NRMS.uasset" 637
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/EnvironmentPack2/Textures/T_CastleStitched_01.uasset" 638
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/EnvironmentPack2/Materials/M_CastleStitched.uasset" 639
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/EnvironmentPack2/Textures/T_ExteriorWindow.uasset" 640
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/EnvironmentPack2/Materials/M_ExteriorWindow.uasset" 641
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/EnvironmentPack2/Meshes/SM_CourtYardBuilding.uasset" 642
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/Textures/T_Fire_Trim_D.uasset" 643
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/Textures/T_Ice_Fort_Trim_1_N.uasset" 644
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/Materials/M_Fire_Fort_Trim_1.uasset" 645
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/Textures/T_Fire_Wall_D.uasset" 646
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/Textures/T_Ice_Fort_Wall_1_N.uasset" 647
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/Materials/M_Fire_Fort_Wall_1.uasset" 648
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Wall_1.uasset" 649
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_D.uasset" 650
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_M.uasset" 651
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_N.uasset" 652
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars.uasset" 653
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_ExtCastle_StoneWall_01_D.uasset" 654
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_ExtCastle_StoneWall_01_N.uasset" 655
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall.uasset" 656
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Wall_Straight_01.uasset" 657
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeIceLands/Environments/Ice/EX_Env_Ice_1/Textures/T_Ex_Bricks_1_D.uasset" 658
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeIceLands/Environments/Ice/EX_Env_Ice_1/Textures/T_Ex_Bricks_1_N.uasset" 659
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeIceLands/Environments/Ice/EX_Env_Ice_1/Materials/M_Ex_Bricks_1.uasset" 660
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/InfinityBladeIceLands/Environments/Ice/EX_Env_Ice_1/StaticMesh/SM_Ex_Ruin_Wall_1.uasset" 661
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/metaldetector/detector_white.uasset" 662
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/metaldetector/green_metal.uasset" 663
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/metaldetector/green_pipe.uasset" 664
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/metaldetector/handle.uasset" 665
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/metaldetector/led.uasset" 666
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/metaldetector/plastic.uasset" 667
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/metaldetector/wire.uasset" 668
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/metaldetector/metal.uasset" 669
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 670
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 671
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Textures/Dummy_Color.uasset" 672
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Textures/Dummy_Normal.uasset" 673
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Textures/Rocks/T_Rock_Tiling_DIffuse.uasset" 674
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Textures/Rocks/T_Rock_Tiling_Normal.uasset" 675
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Textures/Rocks/T_Sea_Rock_Mix.uasset" 676
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Textures/Rocks/T_Sea_Rock_Normal.uasset" 677
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Materials/Rocks/M_Rock_Master1.uasset" 678
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Materials/Rocks/MI_Rock2_Inst5.uasset" 679
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Meshes/Rocks/SM_Rock_Big1.uasset" 680
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Materials/Rocks/MI_Rock2_Inst7.uasset" 681
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Meshes/Rocks/SM_Rock_Sliced1.uasset" 682
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Meshes/Rocks/SM_Rock_Sliced2.uasset" 683
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Meshes/Rocks/SM_Rock_Sliced4.uasset" 684
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Materials/Rocks/MI_Rock2_Inst3.uasset" 685
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Meshes/Rocks/SM_Rock_Small1.uasset" 686
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Textures/Dummy_Roughness.uasset" 687
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Textures/Tilables/T_Moss_Mask1.uasset" 688
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Textures/Wood/T_Wood_Tiling_Diffuse.uasset" 689
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Textures/Wood/T_Wood_Tiling_Normal.uasset" 690
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Textures/Wood/T_Wood_Tiling_Paint_Mask.uasset" 691
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Textures/Wood/T_Wood_Tiling_Roughness.uasset" 692
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Materials/Wood/M_Wood_Master1.uasset" 693
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Textures/Metal/T_Metal_Trims_Diffuse.uasset" 694
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Textures/Metal/T_Metal_Trims_Metalicity.uasset" 695
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Textures/Metal/T_Metal_Trims_Normal.uasset" 696
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Textures/Metal/T_Metal_Trims_Roughness.uasset" 697
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Materials/Metal/MI_Metal_Inst1.uasset" 698
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Materials/Wood/MI_Wood_Inst1.uasset" 699
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Seaside_Town/Meshes/Wood/SM_Boat1.uasset" 700
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/sword/Sword_albedo.uasset" 701
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/sword/Sword_metallic.uasset" 702
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/sword/Sword_normal.uasset" 703
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/sword/Sword_roughness.uasset" 704
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/sword/defaultMat.uasset" 705
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/sword/Artorias_Sword.uasset" 706
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/umbrella/12984_beach-umbrella_diffuse.uasset" 707
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/umbrella/01___Default.uasset" 708
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/umbrella/12984_beach_umbrella_v1_L2.uasset" 709
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/Maps/beach.umap" 710
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/mainmenu.uasset" 711
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/Maps/main.umap" 712
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 713
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Geometry/Meshes/CubeMaterial.uasset" 714
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Geometry/Meshes/1M_Cube.uasset" 715
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 716
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/Geometry/Meshes/TemplateFloor.uasset" 717
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPerson/Meshes/RampMaterial.uasset" 718
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 719
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 720
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 721
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 722
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 723
+"../../../../../../Users/darby/Documents/Unreal Projects/beach_game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 724
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 725
+"../../../Engine/Content/Maps/Entry.umap" 726
